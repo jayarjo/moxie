@@ -57,7 +57,7 @@ module.exports = {
     extensions: [ '.ts', '.js' ]
   },
   optimization: {
-    minimize: true
+    minimize: false
   },
   plugins: [
     new webpack.BannerPlugin({

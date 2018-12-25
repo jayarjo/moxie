@@ -7,15 +7,4 @@ import * as Loader from './Loader';
 import * as Mime from './Mime';
 import * as Url from './Url';
 import * as I18n from './I18n';
-
-export {
-    Basic,
-    Dom,
-    Encode,
-    Env,
-    Events,
-    Loader,
-    Mime,
-    Url,
-    I18n
-};
+export { Basic, Dom, Encode, Env, Events, Loader, Mime, Url, I18n };

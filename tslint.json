@@ -31,7 +31,9 @@
       "no-consecutive-blank-lines": false,
       "semicolon": [false, "always"],
       "member-access": [true, "no-public"],
-      "prefer-const": false
+      "prefer-const": false,
+      "interface-over-type-literal": false,
+      "no-reference": false
     },
     "rulesDirectory": []
 }

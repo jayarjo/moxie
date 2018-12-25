@@ -75,6 +75,6 @@
   },
   "scripts": {
     "test": "jake test",
-    "build": "tsc & webpack"
+    "build": "webpack"
   }
 }
